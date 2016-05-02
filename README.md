@@ -12,6 +12,4 @@ Algumas das coisas que coloquei na página incluem:
 * Botão para o envio de um arquivo junto ao formulário.
 * Alguns efeitos legais na página.
 
-Gostaria de lembrar que esta página é somente um protótipo, então não tá tudo muito bonito. Ainda vou revisar isso e no futuro, quem sabe, fazer algo melhor.
-
 :octocat:
