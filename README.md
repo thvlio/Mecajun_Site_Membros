@@ -1,4 +1,4 @@
-![alt text](/icons/favicon.ico "Mecajun")
+﻿![alt text](/icons/favicon.ico "Mecajun")
 # Este é um projeto de uma página de membros para o site da empresa júnior *Mecajun*.
 
 ## Meu nome é Thúlio e sou um estudante de engenharia mecâtronica na Universidade de Brasília.
@@ -11,5 +11,7 @@ Algumas das coisas que coloquei na página incluem:
 * Formulário de contato acompanhado de um arquivio .php que não funciona tão bem quanto o esperado.
 * Botão para o envio de um arquivo junto ao formulário.
 * Alguns efeitos legais na página.
+
+Gostaria de lembrar que esta página é somente um protótipo, então não tá tudo muito bonito. Ainda vou revisar isso e no futuro, quem sabe, fazer algo melhor.
 
 :octocat:
