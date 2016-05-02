@@ -12,4 +12,6 @@ Algumas das coisas que coloquei na página incluem:
 * Botão para o envio de um arquivo junto ao formulário.
 * Alguns efeitos legais na página.
 
+Você pode acessar a página aqui: https://thvlio.github.io/mecajun_site_membros/
+
 :octocat:
